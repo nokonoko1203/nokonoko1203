@@ -1,4 +1,4 @@
-### Hi there 👋, I'm nokonoko!
+# Hi there 👋, I'm nokonoko!
 
 ![GitHub Stats Card](https://github-readme-stats.vercel.app/api?username=nokonoko1203)
 
